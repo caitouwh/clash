@@ -1,0 +1,9 @@
+# 内容：4d4y
+# 域名关键字匹配
+# DOMAIN-KEYWORD,openai
+# DOMAIN-KEYWORD,anthropic
+#DOMAIN-KEYWORD,4d4y
+#DOMAIN-KEYWORD,annas-archive
+# 域名后缀匹配
+ 
+DOMAIN-SUFFIX,learning.google.com
