@@ -3,6 +3,7 @@
 # DOMAIN-KEYWORD,openai
 # DOMAIN-KEYWORD,anthropic
 # DOMAIN-KEYWORD,Claude
+# DOMAIN-KEYWORD,khan
 # 域名后缀匹配
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
@@ -10,6 +11,7 @@ DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,metademolab.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,khanmigo.ai
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,events.statsigapi.net
