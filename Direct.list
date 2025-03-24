@@ -5,9 +5,17 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,live.vc.bbcmedia.co.uk
+DOMAIN-SUFFIX,cgtn.com
+DOMAIN-SUFFIX,cnr.cn
+DOMAIN-SUFFIX,cri.cn
+DOMAIN-SUFFIX,akamaized.net
+
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
