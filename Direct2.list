@@ -2,12 +2,12 @@
 # 域名关键字匹配
 # DOMAIN-KEYWORD,openai
 # DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,4d4y
+#DOMAIN-KEYWORD,4d4y
 DOMAIN-KEYWORD,mh4
 DOMAIN-KEYWORD,annas-archive
 # 域名后缀匹配
  
-DOMAIN-SUFFIX,4d4y.com
+#DOMAIN-SUFFIX,4d4y.com
 DOMAIN-SUFFIX,txyz.ai
 DOMAIN-SUFFIX,txyz.cn
 DOMAIN-SUFFIX,linux.do
