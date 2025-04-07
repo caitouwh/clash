@@ -15,8 +15,10 @@ DOMAIN-SUFFIX,doc2x.com
 
 
 
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,doc2x.noedgeai.com
 
 
 # IP段匹配
