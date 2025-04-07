@@ -12,13 +12,14 @@ DOMAIN-SUFFIX,cri.cn
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,4d4y.com
 DOMAIN-SUFFIX,doc2x.com
+DOMAIN-SUFFIX,noedgeai.com
 
 
 
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,doc2x.noedgeai.com
+ 
 
 
 # IP段匹配
